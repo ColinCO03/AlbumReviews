@@ -1,0 +1,98 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(to right, #000000, #040b73)
+}
+header{
+    padding: 50px; 
+    font-size: 30px;
+    color: blue
+}
+
+header span{
+    margin-left: 10px;
+}
+
+header ul{
+    float: right;
+    list-style: none; 
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 20px; 
+}
+
+header ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+header ul li:nth-child(1){
+    background-color: black;
+}
+
+header ul li:hover{
+    background-color: black;
+}
+
+main{text-align: left;
+padding-top: 50px;
+font-size: 20px;
+color: blue;
+margin-left: 60px;
+}
+
+/* styles.css */
+img {
+    width: 200px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: 1px solid #000;
+    margin-left: 500px;
+    width: 550px;
+    height: 300px;
+    }
+
+    /* Example CSS styles */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+
+
+
